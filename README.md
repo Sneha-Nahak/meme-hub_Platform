@@ -4,7 +4,7 @@ MemeHub is a fun and interactive meme-sharing platform where users can discover,
 
 ## 🚀 Live Demo
 
-Visit the live version here: [https://your-netlify-link.netlify.app](https://meme-hub-platform.netlify.app/login)
+Visit the live version here: [https://your-netlify-link.netlify.app](https://meme-hub-platform.netlify.app/)
 
 ```
 
