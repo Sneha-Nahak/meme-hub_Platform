@@ -1,0 +1,21 @@
+/* File: src/components/footer.css */
+
+.footer {
+  background-color: #ffffff;
+  padding: 0.6rem;
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.04);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1e1e1e;
+  border-top: 1px solid #eee;
+}
+
+.footer-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 0.95rem;
+  color: #555555;
+}

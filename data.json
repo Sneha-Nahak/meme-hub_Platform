@@ -1,0 +1,464 @@
+{
+  "memes": [
+    {
+      "username": "memeKing",
+      "displayName": "Meme King",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "imageUrl": "https://static01.nyt.com/images/2022/01/31/crosswords/31meme-wordplay/31meme-wordplay-superJumbo.png",
+      "upvotes": 23,
+      "downvotes": 2,
+      "trending": false
+    },
+    {
+      "username": "lolMaster",
+      "displayName": "LOL Master",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgR9Jz6xUCXTN7ssNt3854QwmhbBJWKb4Fkw&s",
+      "upvotes": 54,
+      "downvotes": 1,
+      "trending": true
+    },
+    {
+      "username": "funnyGuy",
+      "displayName": "Funny Guy",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "imageUrl": "https://www.ateneo.edu/sites/default/files/2025-01/Sample%20biology%20memes.jpg",
+      "upvotes": 10,
+      "downvotes": 4,
+      "trending": false
+    },
+    {
+      "username": "laughQueen",
+      "displayName": "Laugh Queen",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "imageUrl": "https://i0.wp.com/copyhackers.com/wp-content/uploads/2020/06/91080453_10163333459945083_2233604339354566656_n.jpg?resize=521%2C527&ssl=1",
+      "upvotes": 37,
+      "downvotes": 3,
+      "trending": false
+    },
+    {
+      "username": "trollBoss",
+      "displayName": "Troll Boss",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "imageUrl": "https://media.npr.org/assets/img/2015/03/03/overly_custom-dd57085dc9a9e7e18a9ddf242ee8b4aa0c84c764.jpg?s=1100&c=50&f=jpeg",
+      "upvotes": 45,
+      "downvotes": 7,
+      "trending": true
+    },
+    {
+      "username": "roflMachine",
+      "displayName": "ROFL Machine",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "imageUrl": "https://i0.wp.com/copyhackers.com/wp-content/uploads/2020/06/90167758_10163286879800083_3052680505649528832_n.jpg?resize=444%2C466&ssl=1",
+      "upvotes": 60,
+      "downvotes": 0,
+      "trending": true
+    },
+    {
+      "username": "savagePoster",
+      "displayName": "Savage Poster",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "imageUrl": "https://marketplace.canva.com/EAFbdJ-uI_A/4/0/1600w/canva-grey-photographic-cat-funny-meme-agQIyDo91bQ.jpg",
+      "upvotes": 18,
+      "downvotes": 5,
+      "trending": false
+    },
+    {
+      "username": "memeWizard",
+      "displayName": "Meme Wizard",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "imageUrl": "https://preview.redd.it/o590h4swjt441.png?width=640&crop=smart&auto=webp&s=d0264f7a2332451d614f6ca6a010b70ba0976bda",
+      "upvotes": 33,
+      "downvotes": 2,
+      "trending": false
+    },
+    {
+      "username": "gifLord",
+      "displayName": "GIF Lord",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "imageUrl": "https://img.freepik.com/free-vector/simple-vibing-cat-square-meme_742173-4493.jpg?semt=ais_hybrid&w=740",
+      "upvotes": 26,
+      "downvotes": 1,
+      "trending": false
+    },
+    {
+      "username": "memeCat",
+      "displayName": "Meme Cat",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "imageUrl": "https://preview.redd.it/its-always-like-that-v0-wtoeieg8atae1.jpeg?width=640&crop=smart&auto=webp&s=3532d41acdd360a7ed3cd3ea130bca817bc9c7f0",
+      "upvotes": 39,
+      "downvotes": 6,
+      "trending": true
+    },
+    {
+      "username": "chuckleChamp",
+      "displayName": "Chuckle Champ",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "imageUrl": "https://img.delicious.com.au/WqbvXLhs/del/2016/06/more-the-merrier-31380-2.jpg",
+      "upvotes": 245,
+      "downvotes": 14,
+      "trending": true
+    },
+    {
+      "username": "giggleGuru",
+      "displayName": "Giggle Guru",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "imageUrl": "https://thunderdungeon.com/wp-content/uploads/2025/02/funny-cat-memes-11-2-4-2025.jpg",
+      "upvotes": 398,
+      "downvotes": 20,
+      "trending": true
+    },
+    {
+      "username": "memeBro",
+      "displayName": "Meme Bro",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "imageUrl": "https://i.pinimg.com/236x/99/3e/9e/993e9e04c70d185ba702a4ef5edadae7.jpg",
+      "upvotes": 501,
+      "downvotes": 9,
+      "trending": true
+    },
+    {
+      "username": "lolQueen",
+      "displayName": "LOL Queen",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "imageUrl": "https://canada1.discourse-cdn.com/flex027/uploads/typesy/optimized/2X/c/c7c977a6a83853f8133658cf716a2afca01dd084_2_598x500.jpeg",
+      "upvotes": 628,
+      "downvotes": 3,
+      "trending": true
+    },
+    {
+      "username": "sillySensei",
+      "displayName": "Silly Sensei",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "imageUrl": "https://www.lifewire.com/thmb/K0oF6bk8jsXRJFUFma5pNo7xjyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Goalfor2020FunnyMeme-04eadff55a17489a85453238481fe36e.jpg",
+      "upvotes": 312,
+      "downvotes": 17,
+      "trending": true
+    },
+    {
+      "username": "grinLord",
+      "displayName": "Grin Lord",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-693053,resizemode-75,msid-116803313/news/new-updates/new-year-2025-memes-from-new-year-new-me-to-soch-na-sake-resolutions-check-out-these-hilarious-memes-for-a-good-laugh.jpg",
+      "upvotes": 479,
+      "downvotes": 11,
+      "trending": true
+    },
+    {
+      "username": "laughNinja",
+      "displayName": "Laugh Ninja",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "imageUrl": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/08/17/12/meme-exhibition.jpg?width=1200&height=900&fit=crop",
+      "upvotes": 536,
+      "downvotes": 22,
+      "trending": true
+    },
+    {
+      "username": "jokeJuggler",
+      "displayName": "Joke Juggler",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "imageUrl": "https://preview.redd.it/when-meme-community-doesnt-allow-memes-v0-9evcas3hrt4e1.png?auto=webp&s=cef4f3197f5267569358513d3b014a3c323578c4",
+      "upvotes": 278,
+      "downvotes": 8,
+      "trending": true
+    },
+    {
+      "username": "smirkMaster",
+      "displayName": "Smirk Master",
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "imageUrl": "https://cdn.prod.website-files.com/64ef86fd99a286b447305635/6662830f6d9e1ec1429bb0da_6250a54e5aafad58b099d32a_Teams-Meme.webp",
+      "upvotes": 697,
+      "downvotes": 5,
+      "trending": true
+    },
+    {
+      "username": "wittyKitty",
+      "displayName": "Witty Kitty",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "imageUrl": "https://i.pinimg.com/564x/a5/cb/15/a5cb15dfd7e8682a953477bc4d4e07ff.jpg",
+      "upvotes": 342,
+      "downvotes": 12,
+      "trending": true
+    },
+
+
+
+
+
+    {
+    "username": "punPatrol",
+    "displayName": "Pun Patrol",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "imageUrl": "https://i.imgflip.com/30b1gx.jpg",
+    "upvotes": 168,
+    "downvotes": 7,
+    "trending": false
+  },
+  {
+    "username": "jesterQueen",
+    "displayName": "Jester Queen",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHQoJvWIbdPXRVNU9xOIKRzia9xJR6n9luw&s",
+    "upvotes": 127,
+    "downvotes": 10,
+    "trending": false
+  },
+  {
+    "username": "mirthMonk",
+    "displayName": "Mirth Monk",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMRPOU7aaoGYoOIsjlp4lEkyCfG8nDreKMQ&s",
+    "upvotes": 112,
+    "downvotes": 4,
+    "trending": false
+  },
+  {
+    "username": "tickleTyrant",
+    "displayName": "Tickle Tyrant",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "imageUrl": "https://i.chzbgr.com/thumb800/37851909/h0C47BA4F/random-random-memes-memes-funny-funny-memes-absurd-memes-absurd-strange",
+    "upvotes": 199,
+    "downvotes": 6,
+    "trending": true
+  },
+  {
+    "username": "giggleGoblin",
+    "displayName": "Giggle Goblin",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8GBrEju-8UJUbQ7C5qEm8GpC_jxzF8GYcA&s",
+    "upvotes": 142,
+    "downvotes": 8,
+    "trending": false
+  },
+  {
+    "username": "snortDragon",
+    "displayName": "Snort Dragon",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "imageUrl": "https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/blte6642e50f6d41bf5/6513481dfac8e1719df224b1/2023-harvest-memes.png?width=1280&auto=webp&quality=95&format=jpg&disable=upscale",
+    "upvotes": 105,
+    "downvotes": 9,
+    "trending": false
+  },
+  {
+    "username": "memeFalcon",
+    "displayName": "Meme Falcon",
+    "avatar": "https://i.pravatar.cc/150?img=27",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlioe-hQXlVa1ozDSnKHjMYjPkBmMZZPrMQ&s",
+    "upvotes": 198,
+    "downvotes": 3,
+    "trending": true
+  },
+  {
+    "username": "kekBoss",
+    "displayName": "KEK Boss",
+    "avatar": "https://i.pravatar.cc/150?img=28",
+    "imageUrl": "https://i.pinimg.com/236x/e3/a8/66/e3a86664fd2d4dd8358ce5c60b4f1670.jpg",
+    "upvotes": 117,
+    "downvotes": 11,
+    "trending": false
+  },
+  {
+    "username": "banterBeast",
+    "displayName": "Banter Beast",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "imageUrl": "https://images.prestigeonline.com/wp-content/uploads/sites/6/2024/12/30155100/best-memes-of-2024-Main-image-1600x900.jpg",
+    "upvotes": 173,
+    "downvotes": 6,
+    "trending": true
+  },
+  {
+    "username": "laughBot9000",
+    "displayName": "LaughBot 9000",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "imageUrl": "https://pleated-jeans.com/wp-content/uploads/2025/01/funniest-star-wars-memes-1-28-24-732x383.jpg",
+    "upvotes": 160,
+    "downvotes": 5,
+    "trending": true
+  },
+  {
+    "username": "roflNerd",
+    "displayName": "ROFL Nerd",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "imageUrl": "https://cms.outrider.org/sites/default/files/styles/hero_lg/public/2024-08/Edgy%20Climate%20Meme.jpeg?itok=zksNqoDo",
+    "upvotes": 154,
+    "downvotes": 7,
+    "trending": false
+  },
+  {
+    "username": "trollQueen",
+    "displayName": "Troll Queen",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "imageUrl": "https://i.imgflip.com/4/26am.jpg",
+    "upvotes": 138,
+    "downvotes": 4,
+    "trending": false
+  },
+  {
+    "username": "snickerGuru",
+    "displayName": "Snicker Guru",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "imageUrl": "https://www.adobe.com/express/create/media_147b85d9e4cb15b95023a74537b8dd2058027f26f.png?width=750&format=png&optimize=medium",
+    "upvotes": 192,
+    "downvotes": 2,
+    "trending": true
+  },
+  {
+    "username": "whimsyWhale",
+    "displayName": "Whimsy Whale",
+    "avatar": "https://i.pravatar.cc/150?img=34",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsP5TD13wzS8Ir7OZvq9tGTB1wJT0em6meA&s",
+    "upvotes": 123,
+    "downvotes": 5,
+    "trending": false
+  },
+  {
+    "username": "hypeHyena",
+    "displayName": "Hype Hyena",
+    "avatar": "https://i.pravatar.cc/150?img=35",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc88ab175-9e9b-4a7d-b13d-2475879b8626.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+    "upvotes": 95,
+    "downvotes": 6,
+    "trending": false
+  },
+  {
+    "username": "grinMage",
+    "displayName": "Grin Mage",
+    "avatar": "https://i.pravatar.cc/150?img=36",
+    "imageUrl": "https://www.splashlearn.com/blog/wp-content/uploads/2024/07/funny-school-memes-every-student-will-love.png",
+    "upvotes": 157,
+    "downvotes": 10,
+    "trending": true
+  },
+  {
+    "username": "hehWizard",
+    "displayName": "Heh Wizard",
+    "avatar": "https://i.pravatar.cc/150?img=37",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02aCbewgLQMqKqFzGmcnRjY/images-392.fit_lim.size_376x.png",
+    "upvotes": 149,
+    "downvotes": 3,
+    "trending": true
+  },
+  {
+    "username": "smileBandit",
+    "displayName": "Smile Bandit",
+    "avatar": "https://i.pravatar.cc/150?img=38",
+    "imageUrl": "https://cdn.memes.com/up/71558571535638926/i/1746163365132.jpg",
+    "upvotes": 71,
+    "downvotes": 5,
+    "trending": false
+  },
+  {
+    "username": "comicComet",
+    "displayName": "Comic Comet",
+    "avatar": "https://i.pravatar.cc/150?img=39",
+    "imageUrl": "https://www.splashlearn.com/blog/wp-content/uploads/2024/07/funny-school-memes-every-student-will-love.png",
+    "upvotes": 104,
+    "downvotes": 12,
+    "trending": false
+  },
+  {
+    "username": "wheezeWizard",
+    "displayName": "Wheeze Wizard",
+    "avatar": "https://i.pravatar.cc/150?img=40",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2021-06-21-at-10-48-58-1624269888.jpg?resize=980:*",
+    "upvotes": 185,
+    "downvotes": 4,
+    "trending": true
+  },
+
+
+
+
+
+   {
+    "username": "banterBoss",
+    "displayName": "Banter Boss",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "imageUrl": "https://file.forms.app/sitefile/30_statistics_memes_that_hurt_to_understand_1.webp",
+    "upvotes": 853,
+    "downvotes": 15,
+    "trending": true
+  },
+  {
+    "username": "snickerStar",
+    "displayName": "Snicker Star",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "imageUrl": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:85c4a9b5-ce9d-51ae-a972-663b328197eb/component?assetType=TEMPLATE&etag=b54e51fd01ab4822894553392fdeb900&revision=8e9aa898-91c9-40da-b2be-41f5864807e6&component_id=fd5c739c-ed7a-4cc7-90f7-f1692ca61c67",
+    "upvotes": 765,
+    "downvotes": 12,
+    "trending": false
+  },
+  {
+    "username": "roflQueen",
+    "displayName": "ROFL Queen",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "imageUrl": "https://www.intentionalhomeschooling.com/wp-content/uploads/2018/09/lets-be-honest-5b3175.jpg",
+    "upvotes": 589,
+    "downvotes": 10,
+    "trending": true
+  },
+  {
+    "username": "giggleStorm",
+    "displayName": "Giggle Storm",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "imageUrl": "https://plaky.com/blog/wp-content/uploads/2023/08/Intro.jpg",
+    "upvotes": 712,
+    "downvotes": 19,
+    "trending": true
+  },
+  {
+    "username": "hahaHero",
+    "displayName": "Haha Hero",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "imageUrl": "https://digitalsynopsis.com/wp-content/uploads/2017/12/funny-agency-life-creative-designer-copywriter-memes-1.jpg",
+    "upvotes": 938,
+    "downvotes": 8,
+    "trending": false
+  },
+  {
+    "username": "memeSpecter",
+    "displayName": "Meme Specter",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "imageUrl": "https://img.freepik.com/free-vector/coffee-drama-meme_23-2149007479.jpg?semt=ais_hybrid&w=740",
+    "upvotes": 627,
+    "downvotes": 11,
+    "trending": true
+  },
+  {
+    "username": "chortleChamp",
+    "displayName": "Chortle Champ",
+    "avatar": "https://i.pravatar.cc/150?img=27",
+    "imageUrl": "https://www.poynter.org/wp-content/uploads/2023/12/unnamed-4.png",
+    "upvotes": 574,
+    "downvotes": 7,
+    "trending": false
+  },
+  {
+    "username": "grinMachine",
+    "displayName": "Grin Machine",
+    "avatar": "https://i.pravatar.cc/150?img=28",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgekVTbHWDm89tDvucV4EDW20vUTxHBkGMA&s",
+    "upvotes": 821,
+    "downvotes": 13,
+    "trending": true
+  },
+  {
+    "username": "zingerZebra",
+    "displayName": "Zinger Zebra",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "imageUrl": "https://www.verywellmind.com/thmb/uzXMaE6WFlHFW1AZIrei_DNnl6c=/720x607/filters:no_upscale():max_bytes(150000):strip_icc()/70994848_10156969671022675_818349852965470208_n-0215efb0dfa64f4093aa9ed7d8d898e6.jpg",
+    "upvotes": 690,
+    "downvotes": 9,
+    "trending": false
+  },
+  {
+    "username": "smileSniper",
+    "displayName": "Smile Sniper",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-YiT6kwi15OH94tYs5k3C_wasYIq1e6G9w&s",
+    "upvotes": 982,
+    "downvotes": 6,
+    "trending": true
+  }
+  ]
+}

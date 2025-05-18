@@ -1,0 +1,41 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  max-height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #c04305;
+  color: #fff;
+  padding: 20px;
+  flex-shrink: 0;
+  transition: transform 0.3s ease-in-out;
+}
+
+.main-content {
+  flex-grow: 1;
+  background-color: #f9f9f9;
+  padding: 0; /* ✅ Remove default 20px padding */
+  margin: 0;
+}
+
+/* Sidebar Toggle button inside main-content (optional) */
+.sidebar-toggle-btn {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  margin: 20px;
+}
+
+/* Responsive behavior for smaller screens */
+@media screen and (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+
+}

@@ -1,0 +1,108 @@
+.trending-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fafafa;
+}
+
+.trending-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+}
+
+.trending-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.trending-badge {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  font-size: 1.6rem;
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 4px 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  z-index: 2;
+}
+
+.trending-card {
+  position: relative; /* Make sure badge is positioned relative to the card */
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.trending-card:hover {
+  transform: translateY(-6px);
+}
+
+.trending-header {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.trending-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #555;
+}
+
+.trending-username {
+  font-weight: 600;
+  color: #222;
+  font-size: 1rem;
+}
+
+.trending-image {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+}
+
+.trending-votes {
+  padding: 12px 16px;
+  display: flex;
+  gap: 20px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #666;
+}
+
+.trending-upvotes {
+  color: #2e7d32; /* green */
+}
+
+.trending-downvotes {
+  color: #c62828; /* red */
+}
+
+.trending-vote-button {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-right: 10px;
+  color: #444;
+  transition: all 0.2s ease;
+}
+
+.trending-vote-button:hover {
+  color: #000;
+  transform: scale(1.1);
+}

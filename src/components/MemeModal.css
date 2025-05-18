@@ -1,0 +1,108 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 12px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  padding: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  animation: pop 0.3s ease-out;
+
+  /* Hide scrollbar - cross browser */
+  scrollbar-width: none;           
+  -ms-overflow-style: none;        
+}
+
+.modal-content::-webkit-scrollbar {
+  display: none;                   
+}
+
+@keyframes pop {
+  from {
+    transform: scale(0.9);
+    opacity: 0.3;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 18px;
+  font-size: 2rem;
+  background: none;
+  border: none;
+  color: #333;
+  cursor: pointer;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.modal-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #555;
+}
+
+.modal-username {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.modal-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.modal-votes {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.vote-button {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  margin: 0 8px;
+  color: #555;
+  cursor: pointer;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.vote-button:hover {
+  transform: scale(1.1);
+  color: #000;
+}
+
+.vote-button.active {
+  color: #1a73e8; /* Highlighted vote */
+  font-weight: bold;
+}
