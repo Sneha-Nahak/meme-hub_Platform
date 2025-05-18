@@ -4,7 +4,7 @@ MemeHub is a fun and interactive meme-sharing platform where users can discover,
 
 ## 🚀 Live Demo
 
-Visit the live version here: [MemeHub on Netlify](https://your-netlify-link.netlify.app)
+Visit the live version here: [https://your-netlify-link.netlify.app](https://6829abe4b8313191dd238bec--meme-hub-platform-1.netlify.app/)
 
 ```
 
@@ -80,7 +80,7 @@ To run this project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/meme-hub_Platform.git
+git clone https://github.com/Sneha-Nahak/meme-hub_Platform.git
 
 # Navigate to the project directory
 cd meme-hub_Platform
